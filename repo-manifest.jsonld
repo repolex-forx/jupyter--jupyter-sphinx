@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter/jupyter-sphinx/commit/bd4c85dc8cc08eab5251ffee2a94ec25a669c5bb",
       "git:hexsha": "bd4c85dc8cc08eab5251ffee2a94ec25a669c5bb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:12:23.246555+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/jupyter-sphinx/commit/86722ee9e84f8152668c4f2580d720ef7d03846a",
