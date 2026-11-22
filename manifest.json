@@ -109,6 +109,84 @@
       ],
       "ast": [
         "aggregate/ast/0d6b26c677334dbbd0f4d1935f50dcf3888c82c1/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0d6b26c677334dbbd0f4d1935f50dcf3888c82c1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ipykernel",
+          "ecosystem": "PYPI",
+          "version": "4.5.1",
+          "githubOrg": "ipython",
+          "githubRepo": "ipykernel",
+          "githubCommit": "216aab04f9a653984a292dd054a1c263067cb3f7",
+          "githubTag": "4.5.1",
+          "githubUrl": "https://github.com/ipython/ipykernel",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ipython",
+          "ecosystem": "PYPI",
+          "version": "9.18.1",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "5aa346b9f25910cc4888f44ac58b7aaa4b59da9c",
+          "githubTag": "9.18.1",
+          "githubUrl": "https://github.com/ipython/ipython",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "nbformat",
+          "ecosystem": "PYPI",
+          "version": "5.11.1",
+          "githubOrg": "jupyter",
+          "githubRepo": "nbformat",
+          "githubCommit": "75f819f5b60bc6ffc72145c364132efe5b3c4b35",
+          "githubTag": "v5.11.1",
+          "githubUrl": "https://github.com/jupyter/nbformat",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "7",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "bash-kernel",
+          "ecosystem": "PYPI",
+          "version": "0.10.0",
+          "githubOrg": "takluyver",
+          "githubRepo": "bash_kernel",
+          "githubCommit": "f07a74326487735e31d355faaf8340e8597090f5",
+          "githubTag": "0.10.0",
+          "githubUrl": "https://github.com/takluyver/bash_kernel",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "matplotlib",
+          "ecosystem": "PYPI",
+          "version": "3.11.2",
+          "githubOrg": "matplotlib",
+          "githubRepo": "matplotlib",
+          "githubCommit": "d3ca9172e392048ec242b90e8423e88d1a3000b2",
+          "githubTag": "v3.11.2",
+          "githubUrl": "https://github.com/matplotlib/matplotlib",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
